@@ -20,29 +20,31 @@ Budget Alerts: Users receive alerts when nearing or exceeding the budget limit f
 
 # Setup Instructions
 
-1. Clone the Repository
-First, clone the repository to your local machine:
-```bash
-git clone https://github.com/your-username/personal-budget-manager-app.git
-'''
+1. Clone the repository:
 
-2. Navigate to the Project Directory
-```bash
-cd personal-budget-manager
-'''
+    ```bash
+    git clone https://github.com/your-username/personal-budget-manager.git
+    cd personal-budget-manager
+    ```
 
-3. Install Dependencies
-Make sure you have Node.js and npm installed. Then, install the necessary dependencies:
-```bash
-npm install
-'''
+2. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Run the app:
+
+    ```bash
+    npm start
+    ```
 
 4. Run the Application
    
 To start the application in development mode, run:
 ```bash
 npm start
-'''
+```
 
 This will open the app in your browser. If it doesn’t open automatically, navigate to http://localhost:3000.
 
@@ -50,7 +52,7 @@ This will open the app in your browser. If it doesn’t open automatically, navi
 To create a production-ready build, run:
 ```bash
 npm run build
-'''
+```
 
 ## Dependencies
 
