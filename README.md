@@ -1,10 +1,10 @@
-Personal Budget Manager
+# Personal Budget Manager
 
-Description
+## Description
 
 The Personal Budget Manager is a simple application that allows users to track their expenses and manage their budget. It enables users to add, edit, delete, and view expenses, with a visual summary of their spending by category. The application also provides alerts when budget limits are reached.
 
-Features
+# Features
 
 Add Expense: Users can add new expenses with details like amount, date, and category.
 
@@ -18,7 +18,7 @@ Expense Summary: A pie chart visually summarizes the expenses by category.
 
 Budget Alerts: Users receive alerts when nearing or exceeding the budget limit for a category.
 
-Setup Instructions
+# Setup Instructions
 
 1. Clone the Repository
 First, clone the repository to your local machine:
@@ -47,7 +47,7 @@ To create a production-ready build, run:
 
 npm run build.
 
-Dependencies
+## Dependencies
 
 React: Frontend framework for building the user interface.
 
@@ -70,7 +70,7 @@ BudgetAlerts.js: Component for displaying budget alerts.
 
 App.css: Styling for the application.
 
-Usage
+## Usage
 
 Adding an Expense: Fill out the expense form with the amount, date, and category, then click "Add Expense."
 
@@ -82,7 +82,7 @@ Viewing Expenses: All expenses are listed with the ability to edit or delete the
 
 Checking Budget Alerts: Budget limits are set for categories like food, entertainment, and others, with alerts displayed when limits are reached.
 
-6. Deployment
+## Deployment
 The application is live and deployed using GitHub Pages. You can access the app at the following link:
 
 🔗 *[Live Demo](https://singular-kulfi-2dca1a.netlify.app)*
