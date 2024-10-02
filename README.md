@@ -81,3 +81,8 @@ Deleting an Expense: Click the red "Delete" button to remove an expense from the
 Viewing Expenses: All expenses are listed with the ability to edit or delete them.
 
 Checking Budget Alerts: Budget limits are set for categories like food, entertainment, and others, with alerts displayed when limits are reached.
+
+6. Deployment
+The application is live and deployed using GitHub Pages. You can access the app at the following link:
+
+🔗 *[Live Demo](https://singular-kulfi-2dca1a.netlify.app)*
